@@ -1,0 +1,2685 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "LyraCardScan",
+    "printedName": "LyraCardScan",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "CardInfo",
+        "printedName": "CardInfo",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "pan",
+            "printedName": "pan",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12LyraCardScan0B4InfoC3panSSvp",
+            "mangledName": "$s12LyraCardScan0B4InfoC3panSSvp",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12LyraCardScan0B4InfoC3panSSvg",
+                "mangledName": "$s12LyraCardScan0B4InfoC3panSSvg",
+                "moduleName": "LyraCardScan",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "expiryMonth",
+            "printedName": "expiryMonth",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12LyraCardScan0B4InfoC11expiryMonthSSSgvp",
+            "mangledName": "$s12LyraCardScan0B4InfoC11expiryMonthSSSgvp",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12LyraCardScan0B4InfoC11expiryMonthSSSgvg",
+                "mangledName": "$s12LyraCardScan0B4InfoC11expiryMonthSSSgvg",
+                "moduleName": "LyraCardScan",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "expiryYear",
+            "printedName": "expiryYear",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12LyraCardScan0B4InfoC10expiryYearSSSgvp",
+            "mangledName": "$s12LyraCardScan0B4InfoC10expiryYearSSSgvp",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12LyraCardScan0B4InfoC10expiryYearSSSgvg",
+                "mangledName": "$s12LyraCardScan0B4InfoC10expiryYearSSSgvg",
+                "moduleName": "LyraCardScan",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "name",
+            "printedName": "name",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:12LyraCardScan0B4InfoC4nameSSSgvp",
+            "mangledName": "$s12LyraCardScan0B4InfoC4nameSSSgvp",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:12LyraCardScan0B4InfoC4nameSSSgvg",
+                "mangledName": "$s12LyraCardScan0B4InfoC4nameSSSgvg",
+                "moduleName": "LyraCardScan",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(pan:expiryMonth:expiryYear:name:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CardInfo",
+                "printedName": "LyraCardScan.CardInfo",
+                "usr": "c:@M@LyraCardScan@objc(cs)CardInfo"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@LyraCardScan@objc(cs)CardInfo(im)initWithPan:expiryMonth:expiryYear:name:",
+            "mangledName": "$s12LyraCardScan0B4InfoC3pan11expiryMonth0F4Year4nameACSS_SSSgA2Htcfc",
+            "moduleName": "LyraCardScan",
+            "objc_name": "initWithPan:expiryMonth:expiryYear:name:",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "CardInfo",
+                "printedName": "LyraCardScan.CardInfo",
+                "usr": "c:@M@LyraCardScan@objc(cs)CardInfo"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@LyraCardScan@objc(cs)CardInfo(im)init",
+            "mangledName": "$s12LyraCardScan0B4InfoCACycfc",
+            "moduleName": "LyraCardScan",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@LyraCardScan@objc(cs)CardInfo",
+        "mangledName": "$s12LyraCardScan0B4InfoC",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LyraCardScanController",
+        "printedName": "LyraCardScanController",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "LyraCardScanController",
+                "printedName": "LyraCardScan.LyraCardScanController",
+                "usr": "s:12LyraCardScan0abC10ControllerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:12LyraCardScan0abC10ControllerCACycfc",
+            "mangledName": "$s12LyraCardScan0abC10ControllerCACycfc",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "present",
+            "printedName": "present(from:animated:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LyraCardScan.LyraCardScanResult) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LyraCardScanResult",
+                    "printedName": "LyraCardScan.LyraCardScanResult",
+                    "usr": "s:12LyraCardScan0abC6ResultO"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12LyraCardScan0abC10ControllerC7present4from8animated10completionySo06UIViewD0C_SbyAA0abC6ResultOctF",
+            "mangledName": "$s12LyraCardScan0abC10ControllerC7present4from8animated10completionySo06UIViewD0C_SbyAA0abC6ResultOctF",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12LyraCardScan0abC10ControllerC",
+        "mangledName": "$s12LyraCardScan0abC10ControllerC",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "LyraCardScanResult",
+        "printedName": "LyraCardScanResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "completed",
+            "printedName": "completed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LyraCardScan.LyraCardScanResult.Type) -> (LyraCardScan.CardInfo) -> LyraCardScan.LyraCardScanResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(LyraCardScan.CardInfo) -> LyraCardScan.LyraCardScanResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LyraCardScanResult",
+                        "printedName": "LyraCardScan.LyraCardScanResult",
+                        "usr": "s:12LyraCardScan0abC6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(card: LyraCardScan.CardInfo)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CardInfo",
+                            "printedName": "LyraCardScan.CardInfo",
+                            "usr": "c:@M@LyraCardScan@objc(cs)CardInfo"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LyraCardScan.LyraCardScanResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LyraCardScanResult",
+                        "printedName": "LyraCardScan.LyraCardScanResult",
+                        "usr": "s:12LyraCardScan0abC6ResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12LyraCardScan0abC6ResultO9completedyAcA0B4InfoC_tcACmF",
+            "mangledName": "$s12LyraCardScan0abC6ResultO9completedyAcA0B4InfoC_tcACmF",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "canceled",
+            "printedName": "canceled",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LyraCardScan.LyraCardScanResult.Type) -> LyraCardScan.LyraCardScanResult",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LyraCardScanResult",
+                    "printedName": "LyraCardScan.LyraCardScanResult",
+                    "usr": "s:12LyraCardScan0abC6ResultO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LyraCardScan.LyraCardScanResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LyraCardScanResult",
+                        "printedName": "LyraCardScan.LyraCardScanResult",
+                        "usr": "s:12LyraCardScan0abC6ResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12LyraCardScan0abC6ResultO8canceledyA2CmF",
+            "mangledName": "$s12LyraCardScan0abC6ResultO8canceledyA2CmF",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "failed",
+            "printedName": "failed",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(LyraCardScan.LyraCardScanResult.Type) -> (any Swift.Error) -> LyraCardScan.LyraCardScanResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(any Swift.Error) -> LyraCardScan.LyraCardScanResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LyraCardScanResult",
+                        "printedName": "LyraCardScan.LyraCardScanResult",
+                        "usr": "s:12LyraCardScan0abC6ResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(error: any Swift.Error)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "any Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "LyraCardScan.LyraCardScanResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LyraCardScanResult",
+                        "printedName": "LyraCardScan.LyraCardScanResult",
+                        "usr": "s:12LyraCardScan0abC6ResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:12LyraCardScan0abC6ResultO6failedyACs5Error_p_tcACmF",
+            "mangledName": "$s12LyraCardScan0abC6ResultO6failedyACs5Error_p_tcACmF",
+            "moduleName": "LyraCardScan",
+            "declAttributes": [
+              "RawDocComment"
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:12LyraCardScan0abC6ResultO",
+        "mangledName": "$s12LyraCardScan0abC6ResultO",
+        "moduleName": "LyraCardScan",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 153,
+      "length": 10,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 173,
+      "length": 4,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 187,
+      "length": 8,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 205,
+      "length": 8,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 223,
+      "length": 3,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 236,
+      "length": 10,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 256,
+      "length": 8,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
+      "kind": "IntegerLiteral",
+      "offset": 274,
+      "length": 7,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 153,
+      "length": 5,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 168,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CardType.swift",
+      "kind": "IntegerLiteral",
+      "offset": 185,
+      "length": 7,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 74,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 110,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 143,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 191,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 234,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 287,
+      "length": 12,
+      "value": "[\"34\", \"37\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 344,
+      "length": 82,
+      "value": "[\"300\", \"301\", \"302\", \"303\", \"304\", \"305\", \"309\", \"36\", \"38\", \"39\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 469,
+      "length": 20,
+      "value": "[\"6011\", \"64\", \"65\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 527,
+      "length": 6,
+      "value": "[\"35\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 578,
+      "length": 256,
+      "value": "[\"2221\", \"2222\", \"2223\", \"2224\", \"2225\", \"2226\", \"2227\", \"2228\", \"2229\", \"223\", \"224\", \"225\", \"226\", \"227\", \"228\", \"229\", \"23\", \"24\", \"25\", \"26\", \"270\", \"271\", \"2720\", \"50\", \"51\", \"52\", \"53\", \"54\", \"55\", \"67\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 877,
+      "length": 6,
+      "value": "[\"62\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 922,
+      "length": 5,
+      "value": "[\"4\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CardUtils\/CreditCardUtils.swift",
+      "kind": "Array",
+      "offset": 973,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/CreditCardOcrImplementation.swift",
+      "kind": "IntegerLiteral",
+      "offset": 423,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/CreditCardOcrImplementation.swift",
+      "kind": "FloatLiteral",
+      "offset": 451,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/ErrorCorrection.swift",
+      "kind": "IntegerLiteral",
+      "offset": 103,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/ErrorCorrection.swift",
+      "kind": "Dictionary",
+      "offset": 138,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/ErrorCorrection.swift",
+      "kind": "Dictionary",
+      "offset": 176,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/ErrorCorrection.swift",
+      "kind": "Dictionary",
+      "offset": 211,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/MainLoopStateMachine.swift",
+      "kind": "FloatLiteral",
+      "offset": 797,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/MainLoopStateMachine.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1991,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/MainLoopStateMachine.swift",
+      "kind": "FloatLiteral",
+      "offset": 2031,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/MainLoopStateMachine.swift",
+      "kind": "FloatLiteral",
+      "offset": 2068,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/NonNameWords.swift",
+      "kind": "Array",
+      "offset": 215,
+      "length": 1033,
+      "value": "[\"customer\", \"debit\", \"visa\", \"mastercard\", \"navy\", \"american\", \"express\", \"thru\", \"good\", \"authorized\", \"signature\", \"wells\", \"navy\", \"credit\", \"federal\", \"union\", \"bank\", \"valid\", \"validfrom\", \"validthru\", \"llc\", \"business\", \"netspend\", \"goodthru\", \"chase\", \"fargo\", \"hsbc\", \"usaa\", \"chaseo\", \"commerce\", \"last\", \"of\", \"lastdayof\", \"check\", \"card\", \"inc\", \"first\", \"member\", \"since\", \"american\", \"express\", \"republic\", \"bmo\", \"capital\", \"one\", \"capitalone\", \"platinum\", \"expiry\", \"date\", \"expiration\", \"cash\", \"back\", \"td\", \"access\", \"international\", \"interac\", \"nterac\", \"entreprise\", \"business\", \"md\", \"enterprise\", \"fifth\", \"third\", \"fifththird\", \"world\", \"rewards\", \"citi\", \"member\", \"cardmember\", \"cardholder\", \"valued\", \"since\", \"membersince\", \"cardmembersince\", \"cardholdersince\", \"freedom\", \"quicksilver\", \"penfed\", \"use\", \"this\", \"card\", \"is\", \"subject\", \"to\", \"the\", \"inc\", \"not\", \"transferable\", \"gto\", \"mgy\", \"sign\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "Array",
+      "offset": 5404,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5432,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "Array",
+      "offset": 5489,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "StringLiteral",
+      "offset": 5534,
+      "length": 18,
+      "value": "\"OcrMainLoopMutex\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5577,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "Array",
+      "offset": 5632,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/CreditCardOcr\/OcrMainLoop.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5659,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/Extensions\/UIImage+pixelBuffer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6308,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/Extensions\/UIImage+pixelBuffer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6894,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/SSDOcr.swift",
+      "kind": "Array",
+      "offset": 417,
+      "length": 5,
+      "value": "[\"0\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/SSDOcr.swift",
+      "kind": "StringLiteral",
+      "offset": 2648,
+      "length": 8,
+      "value": "\"scores\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/SSDOcr.swift",
+      "kind": "StringLiteral",
+      "offset": 2955,
+      "length": 7,
+      "value": "\"boxes\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/SSDOcr.swift",
+      "kind": "StringLiteral",
+      "offset": 3262,
+      "length": 8,
+      "value": "\"filter\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/UxModel.swift",
+      "kind": "Array",
+      "offset": 428,
+      "length": 10,
+      "value": "[\"input1\"]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLModels\/UxModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2645,
+      "length": 9,
+      "value": "\"output1\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/ActiveStateComputation.swift",
+      "kind": "Array",
+      "offset": 2114,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/ActiveStateComputation.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2136,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/AppState.swift",
+      "kind": "IntegerLiteral",
+      "offset": 85,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/AppState.swift",
+      "kind": "BooleanLiteral",
+      "offset": 128,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/DetectedAllBoxes.swift",
+      "kind": "Array",
+      "offset": 223,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/DetectedAllOcrBoxes.swift",
+      "kind": "Array",
+      "offset": 196,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDD.swift",
+      "kind": "Array",
+      "offset": 178,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "FloatLiteral",
+      "offset": 154,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "FloatLiteral",
+      "offset": 205,
+      "length": 3,
+      "value": "1.2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 244,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 285,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 2420,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "Array",
+      "offset": 2453,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2587,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2608,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2662,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2684,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2767,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2818,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrDDUtils.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2868,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 634,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 677,
+      "length": 2,
+      "value": "38"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 781,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 826,
+      "length": 2,
+      "value": "19"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 982,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1020,
+      "length": 2,
+      "value": "31"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1179,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1219,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1375,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1675,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1879,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1918,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1957,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "FloatLiteral",
+      "offset": 5662,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/OcrPriorsGen.swift",
+      "kind": "FloatLiteral",
+      "offset": 5684,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 477,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 504,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 534,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 567,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 599,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 641,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/PostDetectionAlgorithm.swift",
+      "kind": "IntegerLiteral",
+      "offset": 681,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "StringLiteral",
+      "offset": 301,
+      "length": 8,
+      "value": "\"SSDOcr\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "StringLiteral",
+      "offset": 343,
+      "length": 10,
+      "value": "\"mlmodelc\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 417,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 448,
+      "length": 3,
+      "value": "600"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 480,
+      "length": 3,
+      "value": "375"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 515,
+      "length": 4,
+      "value": "0.45"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 553,
+      "length": 4,
+      "value": "0.39"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 588,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 624,
+      "length": 3,
+      "value": "0.1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "FloatLiteral",
+      "offset": 658,
+      "length": 3,
+      "value": "0.2"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 686,
+      "length": 3,
+      "value": "200"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 705,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "Array",
+      "offset": 791,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/MLRuntime\/SSDOcrDetect.swift",
+      "kind": "BooleanLiteral",
+      "offset": 831,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/CardScanSheet.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1089,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 394,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 429,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 506,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 553,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 618,
+      "length": 21,
+      "value": "\"LyraCardScanMlQueue\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 709,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 1540,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1584,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1689,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1799,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10855,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanConfiguration.swift",
+      "kind": "IntegerLiteral",
+      "offset": 70,
+      "length": 8,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 144,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanConfiguration.swift",
+      "kind": "BooleanLiteral",
+      "offset": 201,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 197,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 230,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 261,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 298,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 333,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "BooleanLiteral",
+      "offset": 353,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "StringLiteral",
+      "offset": 381,
+      "length": 10,
+      "value": "\"Portrait\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "IntegerLiteral",
+      "offset": 690,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/ScanStats.swift",
+      "kind": "BooleanLiteral",
+      "offset": 754,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/SimpleScanViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 4544,
+      "length": 3,
+      "value": "4.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/VideoFeed.swift",
+      "kind": "BooleanLiteral",
+      "offset": 347,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/UI\/VideoFeed.swift",
+      "kind": "StringLiteral",
+      "offset": 405,
+      "length": 15,
+      "value": "\"session queue\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/Utils\/AtomicPropertyWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 303,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardScan\/Utils\/DeviceUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 796,
+      "length": 5,
+      "value": "\"ios\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 165,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 561,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 984,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 1399,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/UxAnalyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 9,
+      "value": "\"UxModel\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/CardVerify\/UxAnalyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 285,
+      "length": 10,
+      "value": "\"mlmodelc\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/Core\/Categories\/Dictionary+Stripe.swift",
+      "kind": "Array",
+      "offset": 1861,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/Core\/Categories\/UIImage+StripeCore.swift",
+      "kind": "FloatLiteral",
+      "offset": 323,
+      "length": 3,
+      "value": "0.5"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/Core\/Localization\/STPLocalizedString.swift",
+      "kind": "StringLiteral",
+      "offset": 163,
+      "length": 4,
+      "value": "\"fr\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/Core\/Localization\/STPLocalizedString.swift",
+      "kind": "StringLiteral",
+      "offset": 187,
+      "length": 4,
+      "value": "\"en\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/Vendored\/StripeCardScan\/Source\/Core\/Localization\/STPLocalizedString.swift",
+      "kind": "StringLiteral",
+      "offset": 211,
+      "length": 4,
+      "value": "\"es\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/LyraCardScan\/LyraCardScanController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 844,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}

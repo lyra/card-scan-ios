@@ -1,0 +1,54 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
+// swift-module-flags: -target arm64-apple-ios26.2 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature DisableOutwardActorInference -enable-upcoming-feature InferSendableFromCaptures -enable-upcoming-feature GlobalActorIsolatedTypesUsability -enable-upcoming-feature MemberImportVisibility -enable-upcoming-feature InferIsolatedConformances -enable-upcoming-feature NonisolatedNonsendingByDefault -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name LyraCardScan
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import AVFoundation
+import AVKit
+import Accelerate
+import CoreGraphics
+import CoreML
+import CoreTelephony
+import Foundation
+import Swift
+import UIKit
+import VideoToolbox
+import Vision
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+@_hasMissingDesignatedInitializers @objc public class CardInfo : ObjectiveC.NSObject {
+  public var pan: Swift.String {
+    get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var expiryMonth: Swift.String? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var expiryYear: Swift.String? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var name: Swift.String? {
+    get
+  }
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @objc public init(pan: Swift.String, expiryMonth: Swift.String? = nil, expiryYear: Swift.String? = nil, name: Swift.String? = nil)
+  #endif
+  @objc deinit
+}
+public class LyraCardScanController {
+  public init()
+  public func present(from presentingViewController: UIKit.UIViewController, animated: Swift.Bool = true, completion: @escaping (LyraCardScan.LyraCardScanResult) -> Swift.Void)
+  @objc deinit
+}
+public enum LyraCardScanResult {
+  case completed(card: LyraCardScan.CardInfo)
+  case canceled
+  case failed(error: any Swift.Error)
+}
