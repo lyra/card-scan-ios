@@ -6,7 +6,7 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		halbfk5YMS/td+tA6BvKIRq2KzY=
+		pJaFzUM/1eej0sqSihbsSf+fMXI=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -14,19 +14,19 @@
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0SSB7F0wGPAtDWpgiZmOOfGH1QY=
+		jChQf2zzXlelrUPeH+fbXXg3GqE=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		YYx6L1GkVPefEM8pXwMjEgZPSoI=
+		DFkOQqgX8IuK4O98PwdnDyR7r94=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0SSB7F0wGPAtDWpgiZmOOfGH1QY=
+		jChQf2zzXlelrUPeH+fbXXg3GqE=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OUkqtqegaAEhBEZzqedMOHqsoSU=
+		wcdi5MvNS1I83086coKhyun2Muw=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XnyvYeu2hOdAFnX9221p78CPAOg=
+		uRUjrtsdGWL56qL5XuQjP9nrygE=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		H8K/doMvQarVLOVTx+HOVtv+iwI=
+		ScpLZMuh5fbtJc49hY06r/gn5vk=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XnyvYeu2hOdAFnX9221p78CPAOg=
+		uRUjrtsdGWL56qL5XuQjP9nrygE=
 		</data>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+5UfpNL+5Tad5a71ylyDkEW/VeI=
+		dWP15auiiEMtqdxaqR7QCHsQIRI=
 		</data>
 		<key>SSDOcr.mlmodelc/analytics/coremldata.bin</key>
 		<data>
@@ -153,28 +153,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Puv01PNVgwNoKZVUYkxPfIYUKowRU4lKGqYN1rwMunA=
+			r3SPyDyJ+KgPBliXw1dDqeT6GtDjWXYpc8pZw3x2vwk=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rn25DalvzwAu6qeG4KO8dRm4JzS5KPbJyh9dWSyJcv8=
+			wd+5DvDV/VWSpj1Ivmdin82pBm2RJdEx4ytU3hbVD0M=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Puv01PNVgwNoKZVUYkxPfIYUKowRU4lKGqYN1rwMunA=
+			r3SPyDyJ+KgPBliXw1dDqeT6GtDjWXYpc8pZw3x2vwk=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HguxG+viSHj/ep3gKQ+xJZ7FekJg1YAu8Clgk+rID8Y=
+			q6LppzY7dDbBG0D2S0pjgrmEqs9+X4wPPijxW/XpzIY=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -188,28 +188,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JZivmPQSaNIfIp6x8ym8dYDwlK/hoI+UOvwSf0rZwKQ=
+			HPoIehlXqzKgaf/+xtKZLWTVg78eJajNq/PQGUuTjNs=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5gUjYHRgLnx4hHkKICIgUecx2jIOLIcw5sZ6EFDY84=
+			YHk2ke7XKTG4Vv2N+Uh8XDPfzQr5jIf9M+1v8z5vuYM=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JZivmPQSaNIfIp6x8ym8dYDwlK/hoI+UOvwSf0rZwKQ=
+			HPoIehlXqzKgaf/+xtKZLWTVg78eJajNq/PQGUuTjNs=
 			</data>
 		</dict>
 		<key>Modules/LyraCardScan.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pb9/s30Mn+PEfABMB5650Ao0nictkzB6vLgVnDehqw8=
+			+T/yw7v/Avnhj0Hq4295n2p5dmWQDI1YNXfsVQw/mJE=
 			</data>
 		</dict>
 		<key>SSDOcr.mlmodelc/analytics/coremldata.bin</key>

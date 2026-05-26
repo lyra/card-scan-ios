@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "LyraCardScanLibrary",
             url: "https://raw.githubusercontent.com/lyra/card-scan-ios/1.0.0/LyraCardScan.xcframework.zip",
-            checksum: "364da7b51318139907d33574804620e2861d38d92bd2096592d1f25d455600c5"
+            checksum: "3013bfc98bff7098fdafeeb4000bef43637ad8385bd42cc3f625a44f21e50158"
         ),
         .target(
             name: "LyraCardScanTarget",
