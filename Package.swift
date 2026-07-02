@@ -1,10 +1,10 @@
-// swift-tools-version: 6.2
+// swift-tools-version: 5.4
 import PackageDescription
 
 let package = Package(
     name: "LyraCardScan",
     platforms: [
-        .iOS(.v26)
+        .iOS(.v15)
     ],
     products: [
         .library(
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LyraCardScanLibrary",
-            url: "https://raw.githubusercontent.com/lyra/card-scan-ios/1.0.0/LyraCardScan.xcframework.zip",
-            checksum: "23d9c8e4e17f4a6dd4e2c019be287e35a78327167fd3aa597d6c3473ef76b1b0"
+            url: "https://raw.githubusercontent.com/lyra/card-scan-ios/1.0.1/LyraCardScan.xcframework.zip",
+            checksum: "306e50e1ce3317152b455515360f38b9039ec77303a9ee61ed518764ae0f4e35"
         ),
         .target(
             name: "LyraCardScanTarget",
